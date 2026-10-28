@@ -1,0 +1,32 @@
+label,category,serving,kcal_low,kcal_high,protein_g,carbs_g,fat_g
+pizza,Fast food,2 slices (~200 g),500,650,22,66,22
+hamburger,Fast food,1 burger,450,700,28,40,30
+french_fries,Fast food,medium (~115 g),300,420,4,42,17
+hot_dog,Fast food,1 hot dog,280,400,11,24,20
+nachos,Fast food,1 plate,450,700,14,55,30
+onion_rings,Fast food,1 serving,300,450,4,40,19
+tacos,Mexican,2 tacos,300,450,16,32,18
+caesar_salad,Salad,1 bowl,250,450,12,12,26
+greek_salad,Salad,1 bowl,150,300,6,10,18
+sushi,Japanese,6 pieces,250,350,12,50,4
+ramen,Noodles,1 bowl,450,600,20,70,16
+spaghetti_bolognese,Pasta,1 plate,500,700,28,70,20
+lasagna,Pasta,1 piece,400,600,24,40,24
+macaroni_and_cheese,Pasta,1 cup,350,450,15,45,16
+fried_rice,Rice dish,1 plate,400,550,12,65,16
+chicken_curry,Main dish,1 bowl,350,500,28,12,24
+steak,Main dish,200 g,450,600,52,0,30
+dumplings,Snack,5 pieces,250,380,12,38,10
+falafel,Snack,4 pieces,230,350,11,28,14
+omelette,Breakfast,2-egg omelette,200,300,14,2,18
+pancakes,Breakfast,3 pancakes,350,500,9,60,14
+french_toast,Breakfast,2 slices,300,450,10,38,15
+waffles,Breakfast,1 waffle,220,350,6,38,10
+garlic_bread,Snack,2 slices,200,300,5,28,11
+guacamole,Dip,1/2 cup,180,250,3,11,17
+hummus,Dip,1/4 cup,100,160,5,12,7
+ice_cream,Dessert,1 cup,270,380,5,34,16
+chocolate_cake,Dessert,1 slice,350,500,5,55,20
+cheesecake,Dessert,1 slice,400,550,7,36,30
+donuts,Dessert,1 donut,250,350,4,35,14
+apple_pie,Dessert,1 slice,300,420,3,45,15

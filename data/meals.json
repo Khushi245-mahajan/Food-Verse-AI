@@ -1,0 +1,21 @@
+[
+{"slot":"breakfast","name":"Oats porridge with banana and almonds","kcal":350,"p":12,"c":55,"f":10,"diet":"vegan","ing":["oats","banana","almond"]},
+{"slot":"breakfast","name":"Vegetable poha with peanuts","kcal":330,"p":8,"c":52,"f":10,"diet":"vegan","ing":["poha","peanut","onion"]},
+{"slot":"breakfast","name":"Paneer paratha with curd","kcal":450,"p":18,"c":48,"f":20,"diet":"veg","ing":["wheat","paneer","curd"]},
+{"slot":"breakfast","name":"Egg omelette with toast","kcal":380,"p":22,"c":28,"f":18,"diet":"nonveg","ing":["egg","bread"]},
+{"slot":"breakfast","name":"Tofu scramble with rice cakes","kcal":340,"p":20,"c":30,"f":14,"diet":"vegan","ing":["tofu","rice"]},
+{"slot":"lunch","name":"Dal, brown rice and salad","kcal":520,"p":20,"c":85,"f":9,"diet":"vegan","ing":["lentil","rice","cucumber"]},
+{"slot":"lunch","name":"Rajma with rice","kcal":560,"p":20,"c":90,"f":8,"diet":"vegan","ing":["kidney bean","rice"]},
+{"slot":"lunch","name":"Paneer tikka wrap","kcal":520,"p":24,"c":50,"f":22,"diet":"veg","ing":["paneer","wheat","curd"]},
+{"slot":"lunch","name":"Chicken curry with rice and salad","kcal":600,"p":38,"c":70,"f":16,"diet":"nonveg","ing":["chicken","rice"]},
+{"slot":"lunch","name":"Grilled fish with quinoa and vegetables","kcal":500,"p":38,"c":45,"f":15,"diet":"nonveg","ing":["fish","quinoa"]},
+{"slot":"dinner","name":"Vegetable khichdi with curd","kcal":450,"p":15,"c":72,"f":10,"diet":"veg","ing":["rice","lentil","curd"]},
+{"slot":"dinner","name":"Roti with mixed vegetable curry and dal","kcal":500,"p":18,"c":75,"f":12,"diet":"vegan","ing":["wheat","lentil","vegetable"]},
+{"slot":"dinner","name":"Tofu stir-fry with rice","kcal":480,"p":22,"c":60,"f":16,"diet":"vegan","ing":["tofu","soy","rice"]},
+{"slot":"dinner","name":"Grilled chicken, sweet potato and greens","kcal":520,"p":42,"c":45,"f":14,"diet":"nonveg","ing":["chicken","sweet potato"]},
+{"slot":"snack","name":"Seasonal fruit bowl","kcal":120,"p":2,"c":28,"f":0,"diet":"vegan","ing":["fruit"]},
+{"slot":"snack","name":"Roasted chana","kcal":150,"p":8,"c":22,"f":3,"diet":"vegan","ing":["chickpea"]},
+{"slot":"snack","name":"Yogurt with berries","kcal":140,"p":10,"c":16,"f":4,"diet":"veg","ing":["yogurt","berries"]},
+{"slot":"snack","name":"Handful of almonds","kcal":170,"p":6,"c":6,"f":15,"diet":"vegan","ing":["almond"]},
+{"slot":"snack","name":"Two boiled eggs","kcal":150,"p":12,"c":1,"f":10,"diet":"nonveg","ing":["egg"]}
+]

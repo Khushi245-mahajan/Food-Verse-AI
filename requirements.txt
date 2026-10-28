@@ -1,0 +1,10 @@
+streamlit>=1.36,<2
+numpy>=1.26
+pandas>=2.1
+Pillow>=10.3
+opencv-python-headless>=4.9
+requests>=2.31
+# --- Real food recognition (Module A). Remove these 4 lines for a light "demo mode only" deploy ---
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch>=2.2
+transformers>=4.40
